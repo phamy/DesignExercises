@@ -14,7 +14,7 @@ public class BridgeClient {
      * 1. 关键在于使用一个接口的成员包换多个接口类型
      * 2. 每个成员类型的具体对向可以自由变化；
      * 3. 不同不同的接口概念就是有不同的归属，需要一个桥梁关联起来一起打包对外使用，这个总接口就是桥（bridge）
-     * 4. 正因为“桥”，所以各部分client是可见的，最是跟外观模式的显著区别。
+     * 4. 正因为“桥”，所以各部分client是可见的，是跟外观模式的显著区别。
      */
     public static void main(String[] args) {
         AreaA a = new AreaA2();
