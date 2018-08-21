@@ -14,6 +14,7 @@ public class ChainClient {
      * 2. 可以事件驱动，也可以消息驱动。
      * 3. 执行过程类似递归。
      * 4. 最好消息机制，这样避免过深的调用堆栈。
+     * 5. 行为的简单和接口的统一，可能是跟命令模式的最显著区别。
      */
     public static void main(String[] args) {
         //组装责任链
