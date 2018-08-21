@@ -1,4 +1,4 @@
-package com.fermi.test;
+package com.fermi.test.structure;
 
 public class AdapterClinet {
 /**

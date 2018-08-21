@@ -1,4 +1,4 @@
-package com.fermi.test;
+package com.fermi.test.creator;
 
 import com.fermi.desigin.creator.prototype.ConcretePrototype1;
 import com.fermi.desigin.creator.prototype.ConcretePrototype2;

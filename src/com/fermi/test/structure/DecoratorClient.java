@@ -1,4 +1,4 @@
-package com.fermi.test;
+package com.fermi.test.structure;
 
 import com.fermi.desigin.structure.decorator.Bird;
 import com.fermi.desigin.structure.decorator.Fish;

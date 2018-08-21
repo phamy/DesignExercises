@@ -1,4 +1,4 @@
-package com.fermi.test;
+package com.fermi.test.creator;
 
 import com.fermi.desigin.creator.factory.ComputerEngineer;
 
