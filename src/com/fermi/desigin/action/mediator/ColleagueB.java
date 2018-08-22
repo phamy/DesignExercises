@@ -1,4 +1,4 @@
-package com.fermi.desigin.action.colleague;
+package com.fermi.desigin.action.mediator;
 
 public class ColleagueB extends AbstractColleague {
 
